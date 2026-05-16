@@ -1,0 +1,15 @@
+# Среда разработки Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+*.user
+*.suo
+*.db
+*.opendb
+
+# Бинарники и сборка
+*.exe
+*.obj
+*.pdb
+*.ilk
